@@ -7,16 +7,16 @@ You can get more informations from the [API document](http://business.wallet.io/
 
 ### Java
 * use `mvn install` to install dependencies. Or find all the denpendencies in `pom.xml`
-* enjoy your java client `io.wallet.biz.Client`
+* enjoy your client `io.wallet.biz.Client`
 
 ### python
 * python 2.7
 * use `pip install -r requirements.txt` to install dependencies
-* enjoy your java client `client.py`
+* enjoy your client `client.py`
 
 ### Javascript
 * use `npm install` to install dependencies
-* enjoy your java client `client.js`
+* enjoy your client `client.js`
 
 
 
