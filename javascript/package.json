@@ -1,0 +1,15 @@
+{
+  "name": "client-js",
+  "version": "1.0.0",
+  "description": "",
+  "author": "business.wallet.io",
+  "license": "ISC",
+  "dependencies": {
+    "superagent": "^3.5.2",
+    "q": "^1.5.0",
+    "secp256k1": "^3.7.1",
+    "elliptic": "^6.5.2",
+    "bip66": "^1.1.5",
+    "json-stable-stringify": "~1.0.1"
+  }
+}
